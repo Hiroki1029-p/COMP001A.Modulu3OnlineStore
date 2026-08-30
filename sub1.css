@@ -7,11 +7,14 @@ body {
 
 h1 {
     color: #333;
-    margin: 0 auto;
+    background-color: brown;
     text-align: center;
-    font-size: 70px;
+    margin: 0px auto;
+    padding: 20px;
+    width: 60%;
+    font-size: 50px;
     position: absolute;
-    top: 20px;
+    top: 60px;
     left: 0;
     right: 0;
 }
@@ -31,8 +34,29 @@ p {
     margin-top: 20px;
 }
 
-img.Ryokan-image {
+img.room-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+img.hotspring-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.meal-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
 }
