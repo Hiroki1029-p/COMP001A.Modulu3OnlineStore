@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: green;
+}
+
+h1 {
+    color: #333;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 70px;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+}
+
+h2 {
+    color: #555;
+    text-align: center;
+    font-size: 35px;
+    nav-up: auto;
+}
+
+p {
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+img.Ryokan-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
