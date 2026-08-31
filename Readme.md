@@ -1,0 +1,2 @@
+<!-- Author's =  Hiroki Yamato
+     Purpose  =  This time, I created a website with the idea of ​​a fictional hotel homepage in mind. I focused on creating a website with easy-to-read text placement and other elements.>
