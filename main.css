@@ -35,6 +35,7 @@ p {
 }
 
 img.Ryokan-image {
+    margin-top: 60px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -52,5 +53,5 @@ img.woman-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 60px;
 }
