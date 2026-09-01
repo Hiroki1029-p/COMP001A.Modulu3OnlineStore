@@ -14,7 +14,7 @@ h1 {
     width: 60%;
     font-size: 50px;
     position: absolute;
-    top: 60px;
+    top: 20px;
     left: 0;
     right: 0;
 }
@@ -59,4 +59,12 @@ footer {
     width: 60%;
     margin: 0 auto;
     margin-top: 20px;
+}
+
+ul.amenities-list {
+    list-style-type: disc;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 400px;
+    position: relative;
 }
